@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://allen:allen123@navxcluster.xmtvylz.mongodb.net/?retryWrites=true&w=majority&appName=NavXCluster
+      database: Main
